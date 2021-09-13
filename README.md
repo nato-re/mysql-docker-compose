@@ -1,7 +1,7 @@
 # mysql-docker-compose
 
 Até a agora só existe o script de instalação para sistemas baseados em debian (Ubuntu, Xubuntu, etc)
-Nesse repositório existem dois arquivos, [docker.sh](docker.sh), um script para instalar o [docker](https://pt.wikipedia.org/wiki/Docker_(software)) e [docker-compose.yml](docker-compose.yml) para instalar o [docker-compose](https://docs.docker.com/compose/)
+Nesse repositório existem dois arquivos, [docker.sh](docker.sh), um script para instalar o [docker](https://pt.wikipedia.org/wiki/Docker_(software)) e para instalar o [docker-compose](https://docs.docker.com/compose/), e um [docker-compose.yml](docker-compose.yml) que são configurações de um container.
 
 Execute o arquivo `docker.sh` e finalize a instalação com:
 ```sh
